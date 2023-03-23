@@ -1,3 +1,4 @@
+import React from 'react';
 import SettingsIcon from '@mui/icons-material/Settings';
 import LogoutIcon from '@mui/icons-material/Logout';
 import UserSetting from '../pages/userPages/UserSetting';
