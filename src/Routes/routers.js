@@ -6,9 +6,9 @@ import Inventory from '../pages/stockPages/Inventory';
 import Suppliers from '../pages/supplierPages/Suppliers';
 
 export const routersLinks = [
-  { text: 'Customers', page: <Customers /> },
-  { text: 'Inventory', page: <Inventory /> },
-  { text: 'Suppliers', page: <Suppliers /> },
+  { text: 'العملاء', page: <Customers /> },
+  { text: 'المخزون', page: <Inventory /> },
+  { text: 'الموردون', page: <Suppliers /> },
 ];
 
 export const userOptions = [
