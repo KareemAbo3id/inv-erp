@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "custName": "Leanne Graham",
+    "salesman": "Kulas Light",
+    "region": "Gwenborough",
+    "credit": "811496"
+  },
+  {
+    "id": 2,
+    "custName": "Ervin Howell",
+    "salesman": "Victor Plains",
+    "region": "Wisokyburgh",
+    "credit": "344618"
+  },
+  {
+    "id": 3,
+    "custName": "Clementine Bauch",
+    "salesman": "Douglas Extension",
+    "region": "McKenziehaven",
+    "credit": "470653"
+  },
+  {
+    "id": 4,
+    "custName": "Patricia Lebsack",
+    "salesman": "Hoeger Mall",
+    "region": "Southelvis",
+    "credit": "294572"
+  }
+]
